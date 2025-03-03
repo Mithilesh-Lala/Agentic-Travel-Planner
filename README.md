@@ -1,4 +1,4 @@
-# AI Travel Planner
+# Agentic Travel Planner
 
 An agentic application that uses the Claude API to help plan trips by coordinating multiple specialized AI agents.
 
