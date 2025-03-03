@@ -21,7 +21,7 @@ An agentic application that uses the Claude API to help plan trips by coordinati
 1. Clone this repository:
    ```
    git clone https://github.com/Mithilesh-Lala/Agentic-Travel-Planner.git
-   cd ai-travel-planner
+   cd to project directory
    ```
 
 2. Install the required packages:
